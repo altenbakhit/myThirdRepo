@@ -1,5 +1,6 @@
 'use strict'
 
+// Объявляемы функцию
 function guessNumber() {
     // Загадываем число от 1 до 100
     const secretNumber = Math.floor(Math.random() * 100) + 1;
